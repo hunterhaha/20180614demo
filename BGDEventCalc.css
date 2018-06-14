@@ -1,0 +1,19 @@
+.calculator-box{
+    margin: auto;
+    width:80%;
+    height:375px;
+}
+
+.total-pt{
+    display: inline;
+    font-size: 28pt;
+    font-weight: bold;
+}
+
+.temp-list-title{
+    font-size: 16pt;
+}
+
+th {
+    white-space: nowrap;
+}
